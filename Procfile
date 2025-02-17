@@ -1,0 +1,1 @@
+web: sh stup.sh && streamlit run wkkw.py
